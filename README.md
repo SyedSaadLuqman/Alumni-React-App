@@ -53,6 +53,7 @@ git --version (Optional)
 
 # Download Repository and run the following
 
-
+`npm install --legacy-peer-deps` [to install all modules]
+`npm start` [to start server]
 
 
