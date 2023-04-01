@@ -39,17 +39,14 @@ Mac => \n [Line Feed]
 Initializing Repository
 `git init`
 
-
-
-
 # Getting Started with Current Repository
 
 Make sure you have node.js setup:
 check using following commands on cmd:
 
-node -v
-npm -v
-git --version (Optional)
+`node -v`
+`npm -v`
+`git --version (Optional)`
 
 # Download Repository and run the following
 
@@ -57,5 +54,3 @@ git --version (Optional)
 `npm start` [to start server]
 
 # END
-
-
