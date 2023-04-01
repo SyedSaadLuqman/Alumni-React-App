@@ -5,11 +5,11 @@ https://drive.google.com/drive/folders/1EEk5gn641Sm2DD57gjLWsZKG3PmSSUf_?usp=sha
 # Current Env Settings for React App
 
 Node: v16.15.0  
-nmp: 8.5.5  
-git: git version 2.33.0.windows.2  
+npm: 8.5.5  
+git: 2.33.0.windows.2  
 
 Prerequisite   
-(Make sure your local versions is same or higher):  
+(Local version near mentioned version):  
 
 ## Node.js Installation:
 
