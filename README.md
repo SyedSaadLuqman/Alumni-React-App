@@ -22,22 +22,22 @@ Windows 64-bit Installer: https://github.com/git-for-windows/git/releases/downlo
 Ref: https://git-scm.com/
 
 ### Git Configuration (Optional):
-git config --global user.name "Syed Saad Luqman"
-git config --global user.email gosaad@outlook.com
-git config --global core.editor "code --wait"
-git config --global -e (to see all configuration)
+`git config --global user.name "Syed Saad Luqman"`
+`git config --global user.email gosaad@outlook.com`
+`git config --global core.editor "code --wait"`
+`git config --global -e (to see all configuration)`
 
 Windows => \r\n [Carraige Return][Line Feed]
 Mac => \n [Line Feed]
 
-git config --global core.autocrlf ______
-true (for Windows)
-input (for Mac)
+`git config --global core.autocrlf` ______
+`true` (for Windows)
+`input` (for Mac)
 
 ### Version Control
 
-`Initializing Repository`
-git init
+Initializing Repository
+`git init`
 
 
 
@@ -51,7 +51,7 @@ node -v
 npm -v
 git --version (Optional)
 
-# `Download Repository and run the following`
+# Download Repository and run the following
 
 
 
