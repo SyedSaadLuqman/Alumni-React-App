@@ -56,4 +56,6 @@ git --version (Optional)
 `npm install --legacy-peer-deps` [to install all modules]
 `npm start` [to start server]
 
+# END
+
 
